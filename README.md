@@ -1,2 +1,2 @@
-# Temperature-converter
-This is an interactive webpage where we can convert temperature from one form to another form by using HTML , CSS, JSS
+# Temperature_Converter_Nikhil
+This is an easy temperature converter designed using Html ,CSS and javaScript
